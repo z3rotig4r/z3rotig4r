@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z3rotig4r" alt="z3rotig4r" /></a> </p>
 
-- 🌱 I’m currently learning **FastAPI(Back-End), React(Front-End)**
+- 🌱 I’m currently learning **ML/DL, NLP, Privacy Preserving using AI & AI Security(Federated Learning, HE, Synthetic Data, etc.)**
 
 - 📫 How to reach me **colin0427@cau.ac.kr**
 
