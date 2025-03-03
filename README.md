@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3rotig4r&label=Profile%20views&color=0e75b6&style=flat" alt="z3rotig4r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z3rotig4r" alt="z3rotig4r" /></a> </p>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=z3ro_tig4r&them=cold)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/genereate_badge?boj=z3ro_tig4r)]
 
 - 🌱 I’m currently learning **ML/DL, NLP, Privacy Preserving using AI & AI Security(Federated Learning, HE, Synthetic Data, etc.)**
 
