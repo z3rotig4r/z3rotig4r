@@ -5,7 +5,7 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=z3ro_tig4r&them=cold)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/genereate_badge?boj=z3ro_tig4r)]
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/genereate_badge?boj=z3ro_tig4r)
 
 - 🌱 I’m currently learning **ML/DL, NLP, Privacy Preserving using AI & AI Security(Federated Learning, HE, Synthetic Data, etc.)**
 
