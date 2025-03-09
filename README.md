@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm z3rotig4r 👨‍💻</h1>
-<h3 align="center">A passionate MLOps Engineer & AI Researcher with Security from Republic of Korea, Chung-Ang Univ.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3rotig4r&label=Profile%20views&color=0e75b6&style=flat" alt="z3rotig4r" /> </p>
 
