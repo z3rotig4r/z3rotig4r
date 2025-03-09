@@ -9,7 +9,7 @@
 #### 백준
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=z3ro_tig4r&them=cold)
 
-I’m currently learning **ML/DL, NLP(LLM), Privacy Preserving using AI & AI Security**
+I’m currently learning **ML/DL, NLP(LLM), Privacy Preserving using AI & AI Security**  
 E-mail: **colin0427@cau.ac.kr** or zerotiger4764@gmail.com
 
 
