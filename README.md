@@ -4,8 +4,6 @@
 
 [CV](./CV.pdf)
 
-![z3rotig4r's github stats](https://github-readme-stats.vercel.app/api?username=z3rotig4r&show_icons=true&hide_border=true)
-
 #### 백준
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=z3ro_tig4r&them=cold)
 
