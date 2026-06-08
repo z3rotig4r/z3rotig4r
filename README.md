@@ -9,6 +9,7 @@
 **AI Red Teaming** 🔴 · **Agentic AI Harness Engineering** 🤖 · **AI Security** 🛡️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%98%81%EB%B2%94-%EC%A1%B0-021642321/)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://z3rotig4r.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zerotiger4764@gmail.com)
 [![CV](https://img.shields.io/badge/CV-PDF-4B5563?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV.pdf)
 
@@ -44,6 +45,15 @@ Hi, I'm **Cho Youngbeom** (`z3rotig4r`).
 ## 📫 연락처
 
 - **E-mail**: `colin0427@cau.ac.kr` · `zerotiger4764@gmail.com`
+
+---
+
+## ✍️ 최신 블로그 글
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [더 보기](https://z3rotig4r.github.io)
 
 ---
 
