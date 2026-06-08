@@ -4,11 +4,6 @@
 
 [CV](./CV.pdf)
 
-#### 백준
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=z3ro_tig4r&them=cold)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=z3rotig4r_cpp&them=cold)
-
 I’m currently learning **PET(Privacy Enhancing Technologies), NLP(LLM), AI Security**.
 Especially, I am conducting research in FHE(Fully Homomorphic Encryption).
 
