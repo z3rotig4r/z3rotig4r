@@ -22,4 +22,5 @@ jobs:
         with:
           feed_list: "https://z3rotig4r.github.io/feed.xml"
           max_post_count: 5
+          disable_html_encoding: true
           commit_message: "chore: update README with latest blog posts"
