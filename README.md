@@ -51,6 +51,11 @@ Hi, I'm **Cho Youngbeom** (`z3rotig4r`).
 ## ✍️ 최신 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [[FHE] Homomorphic Arithmetic Operations &amp; CKKS&#39;s Encoding](https://z3rotig4r.github.io/posts/fhe-homomorphic-multiplication-ckks-encoding/)
+- [[Artificial Intelligence] 04. Search &lpar;4&rpar;: MDPs&lpar;Markov Decision Processes&rpar;](https://z3rotig4r.github.io/posts/artificial-intelligence-04-search-4-mdps-markov-decision-processes/)
+- [[Artificial Intelligence] 03. Search &lpar;3&rpar;: adversarial search](https://z3rotig4r.github.io/posts/artificial-intelligence-03-search-3-adversarial-search/)
+- [[Artificial Intelligence] 02. Search &lpar;2&rpar;: informed search](https://z3rotig4r.github.io/posts/artificial-intelligence-02-search-2-informed-search/)
+- [[Artificial Intelligence] 01. Search &lpar;1&rpar;: uninformed search](https://z3rotig4r.github.io/posts/artificial-intelligence-01-search-1-uninformed-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [더 보기](https://z3rotig4r.github.io)
