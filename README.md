@@ -44,11 +44,6 @@
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=z3rotig4r&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="z3rotig4r stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=z3rotig4r&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="top langs" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=z3rotig4r&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
