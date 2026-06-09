@@ -51,11 +51,11 @@ Hi, I'm **Cho Youngbeom** (`z3rotig4r`).
 ## ✍️ 최신 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
-- [[FHE] Homomorphic Arithmetic Operations & CKKS's Encoding](https://z3rotig4r.github.io/posts/fhe-homomorphic-multiplication-ckks-encoding/)
-- [[Artificial Intelligence] 04. Search (4): MDPs(Markov Decision Processes)](https://z3rotig4r.github.io/posts/artificial-intelligence-04-search-4-mdps-markov-decision-processes/)
-- [[Artificial Intelligence] 03. Search (3): adversarial search](https://z3rotig4r.github.io/posts/artificial-intelligence-03-search-3-adversarial-search/)
-- [[Artificial Intelligence] 02. Search (2): informed search](https://z3rotig4r.github.io/posts/artificial-intelligence-02-search-2-informed-search/)
-- [[Artificial Intelligence] 01. Search (1): uninformed search](https://z3rotig4r.github.io/posts/artificial-intelligence-01-search-1-uninformed-search/)
+- [[News & Trends] AI 보안 위클리 (2026-06-09) — 에이전틱 레드티밍·LLM 에이전트 취약점](https://z3rotig4r.github.io/posts/news-weekly-2026-06-09/)
+- [[AI Red Teaming] 프롬프트 인젝션 완전정복 — 직접·간접 주입과 탈옥(Jailbreak)](https://z3rotig4r.github.io/posts/prompt-injection-deep-dive/)
+- [[AI Red Teaming] AI 레드티밍이란? — 정의, 전통 보안과의 차이, 방법론](https://z3rotig4r.github.io/posts/what-is-ai-red-teaming/)
+- [[정보보안기사 실기] 침해사고 분석 및 대응: 주요 취약점](https://z3rotig4r.github.io/posts/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EC%B9%A8%ED%95%B4%EC%82%AC%EA%B3%A0-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EB%8C%80%EC%9D%91-%EC%A3%BC%EC%9A%94-%EC%B7%A8%EC%95%BD%EC%A0%90/)
+- [[정보보안기사 실기] 침해사고 분석 및 대응: 시스템 점검 도구](https://z3rotig4r.github.io/posts/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EC%B9%A8%ED%95%B4%EC%82%AC%EA%B3%A0-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EB%8C%80%EC%9D%91-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%90%EA%B2%80-%EB%8F%84%EA%B5%AC/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [더 보기](https://z3rotig4r.github.io)
