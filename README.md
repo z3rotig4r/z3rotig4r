@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=z3rotig4r&fontColor=00FF41&fontSize=70&desc=AI%20Red%20Teaming%20%C2%B7%20Agentic%20AI%20Harness%20Engineering&descSize=18&descAlignY=62" alt="header" />
-
 <div align="center">
 
 # 안녕하세요, 조영범입니다 👋
 
 ### Cho Youngbeom · `z3rotig4r`
 
-**AI Red Teaming** 🔴 · **Agentic AI Harness Engineering** 🤖 · **AI Security** 🛡️
+<a href="https://github.com/z3rotig4r">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=620&height=55&lines=%3E+AI+Red+Teamer+%F0%9F%94%B4;%3E+Agentic+AI+Harness+Engineer+%F0%9F%A4%96;%3E+AI+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%98%81%EB%B2%94-%EC%A1%B0-021642321/)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://z3rotig4r.github.io)
