@@ -141,7 +141,6 @@ export function generateSVG(data, options = {}) {
   } = options;
 
   const colors = themes[theme] || themes.light;
-  const ossScore = (data.totalPRs * 10) + (data.totalRepos * 20);
 
   // PR 단위로 펼치기 (레포별이 아닌 PR별로)
   let allPRs = [];
@@ -287,12 +286,6 @@ export function generateSVG(data, options = {}) {
           ${data.totalPRs} PR${data.totalPRs !== 1 ? 's' : ''} Merged · ${data.totalRepos} Repo${data.totalRepos !== 1 ? 's' : ''}
         </text>
       </g>
-      <g transform="translate(${width - padding * 2 - 80}, 5)">
-        <rect class="badge-bg" width="80" height="24" rx="12"/>
-        <text class="badge-text" x="40" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="800" text-anchor="middle">
-          Score: ${ossScore}
-        </text>
-      </g>
     </g>
   ` : `
     <g transform="translate(${padding}, ${padding + 5})">
@@ -303,12 +296,6 @@ export function generateSVG(data, options = {}) {
         <svg width="16" height="16" viewBox="0 0 20 20" fill="${colors.subtitle}">${icons.check}</svg>
         <text x="20" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="${colors.subtitle}">
           ${data.totalPRs} PR${data.totalPRs !== 1 ? 's' : ''} Merged · ${data.totalRepos} Repo${data.totalRepos !== 1 ? 's' : ''}
-        </text>
-      </g>
-      <g transform="translate(${width - padding * 2 - 80}, 5)">
-        <rect width="80" height="24" rx="12" fill="${colors.badge}"/>
-        <text x="40" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="800" fill="${colors.badgeText}" text-anchor="middle">
-          Score: ${ossScore}
         </text>
       </g>
     </g>
