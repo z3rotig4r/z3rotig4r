@@ -9,6 +9,12 @@ on:
 permissions:
   contents: write
 
+# Share concurrency group with update-contributions so the two never push
+# to main at the same time (avoids "cannot lock ref" rejections).
+concurrency:
+  group: profile-readme-write
+  cancel-in-progress: false
+
 jobs:
   update-readme-with-blog:
     name: Update README with latest blog posts

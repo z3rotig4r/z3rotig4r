@@ -16,6 +16,12 @@ on:
       - 'featured-prs.json'
       - '.github/workflows/update-contributions.yml'
 
+# Serialize runs so concurrent triggers (schedule + push + manual) don't
+# race on `git push` to main ("cannot lock ref" remote rejection).
+concurrency:
+  group: profile-readme-write
+  cancel-in-progress: false
+
 jobs:
   update-svg:
     runs-on: ubuntu-latest
@@ -54,8 +60,19 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add contributions*.svg
-          git diff --staged --quiet || git commit -m "chore: update contributions SVG [skip ci]"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update contributions SVG [skip ci]"
+          # Rebase-retry: another trigger may have pushed to main meanwhile.
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push; then
+              echo "Pushed on attempt $i"; exit 0
+            fi
+            echo "Push attempt $i failed, retrying..."; sleep $((i * 3))
+          done
+          echo "Push failed after retries"; exit 1
 
       - name: Keepalive workflow (prevent 60-day auto-disable)
         if: github.event_name == 'schedule'

@@ -5,7 +5,7 @@
 ### Cho Youngbeom · `z3rotig4r`
 
 <a href="https://github.com/z3rotig4r">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=620&height=55&lines=%3E+AI+Red+Teamer+%F0%9F%94%B4;%3E+Agentic+AI+Harness+Engineer+%F0%9F%A4%96;%3E+AI+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=720&height=55&lines=AI+Red+Teamer+%7C+Security+for+AI+%26+AI+for+Security" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%98%81%EB%B2%94-%EC%A1%B0-021642321/)
