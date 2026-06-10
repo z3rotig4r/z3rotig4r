@@ -88,4 +88,14 @@ Hi, I'm **Cho Youngbeom** (`z3rotig4r`).
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=120&section=footer" alt="footer" />
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z3rotig4r/z3rotig4r/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z3rotig4r/z3rotig4r/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/z3rotig4r/z3rotig4r/output/github-snake.svg" />
+</picture>
+
+</div>
