@@ -72,6 +72,14 @@ Hi, I'm **Cho Youngbeom** (`z3rotig4r`).
 
 ---
 
+## 🌱 오픈소스 기여
+
+<a href="https://github.com/search?q=author%3Az3rotig4r+type%3Apr+is%3Amerged+-user%3Az3rotig4r&type=pullrequests">
+  <img src="./contributions.svg" alt="Open-Source Contributions" />
+</a>
+
+---
+
 <div align="center">
 
 ### 📊 GitHub Stats
