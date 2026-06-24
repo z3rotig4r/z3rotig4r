@@ -51,11 +51,11 @@ Hi, I'm **Cho Youngbeom** (`z3rotig4r`).
 ## ✍️ 최신 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [[AI Red Teaming] 데이터 포이즈닝 (Data Poisoning) — 학습 데이터를 오염시켜 모델을 조종하는 법](https://z3rotig4r.github.io/posts/data-poisoning-attacks/)
 - [[AI Red Teaming] garak으로 LLM 취약점 스캔하기 — 설치부터 리포트 해석까지](https://z3rotig4r.github.io/posts/garak-llm-scanner/)
 - [[Security for AI] OWASP LLM Top 10 (2025) 완전 정리 — 항목별 공격과 방어](https://z3rotig4r.github.io/posts/owasp-llm-top-10-2025/)
 - [[News & Trends] AI 보안 위클리 (2026-06-13)](https://z3rotig4r.github.io/posts/news-weekly-2026-06-13/)
 - [[Agentic AI] MCP Tool Poisoning — 신뢰한 도구가 당신을 공격할 때](https://z3rotig4r.github.io/posts/mcp-tool-poisoning/)
-- [[AI Red Teaming] 에이전트 권한 상승 — AI 에이전트가 권한을 넘는 법과 방어](https://z3rotig4r.github.io/posts/agentic-ai-privilege-escalation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [더 보기](https://z3rotig4r.github.io)
