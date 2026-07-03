@@ -35,7 +35,7 @@
       <g transform="translate(0, 26)">
         <svg width="16" height="16" viewBox="0 0 20 20" fill="#9ece6a"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg>
         <text x="20" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#9ece6a">
-          33 PRs Merged · 4 Repos
+          37 PRs Merged · 4 Repos
         </text>
       </g>
     </g>
@@ -61,12 +61,12 @@
           eGovFramework/eg...
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
-          #44
+          #56
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
-          test: EgovDocumentServ...
+          fix: 마크다운 리더 file_name...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -106,12 +106,12 @@
           eGovFramework/eg...
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
-          #43
+          #52
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
-          test: EgovChatSessionS...
+          feat: spring-ai 모듈에 하이...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -151,12 +151,12 @@
           eGovFramework/eg...
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
-          #41
+          #51
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
-          test: 응답 정리·문서 해시 유틸 단...
+          feat: langchain4j 모듈에 ...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -196,12 +196,12 @@
           eGovFramework/eg...
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
-          #1072
+          #42
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
-          fix: 주소 연계 API 호출 시 co...
+          test: 핵심 유틸 단위테스트 추가 (...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -241,12 +241,12 @@
           eGovFramework/eg...
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
-          #1071
+          #44
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
-          fix: 백업 TAR 엔트리의 한글 파일...
+          test: EgovDocumentServ...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -286,12 +286,12 @@
           eGovFramework/eg...
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
-          #31
+          #43
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
-          fix: 프로젝트·설정 생성 시 경로 조...
+          test: EgovChatSessionS...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -306,7 +306,7 @@
         <g transform="translate(85, 70)">
           <svg width="12" height="12" viewBox="0 0 20 20" fill="#9ece6a"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
           <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
-            Jul 2, 2026
+            Jul 3, 2026
           </text>
         </g>
       </g>
