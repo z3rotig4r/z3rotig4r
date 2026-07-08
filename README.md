@@ -51,11 +51,11 @@ Hi, I'm **Cho Youngbeom** (`z3rotig4r`).
 ## ✍️ 최신 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [[AI Red Teaming] 모델 추출 공격 (Model Extraction) — API로 모델을 훔치는 법과 방어](https://z3rotig4r.github.io/posts/model-extraction-attacks/)
 - [[Security for AI] LLM 가드레일 구축 — NeMo·Llama Guard로 입출력 방어하기](https://z3rotig4r.github.io/posts/llm-guardrails/)
 - [[Security for AI] RAG 보안 — 지식베이스 포이즈닝과 방어](https://z3rotig4r.github.io/posts/rag-security-knowledge-base-poisoning/)
 - [[AI Red Teaming] PyRIT 입문 — Microsoft의 생성형 AI 레드팀 자동화 프레임워크](https://z3rotig4r.github.io/posts/pyrit-red-teaming/)
 - [[AI Red Teaming] 데이터 포이즈닝 (Data Poisoning) — 학습 데이터를 오염시켜 모델을 조종하는 법](https://z3rotig4r.github.io/posts/data-poisoning-attacks/)
-- [[AI Red Teaming] garak으로 LLM 취약점 스캔하기 — 설치부터 리포트 해석까지](https://z3rotig4r.github.io/posts/garak-llm-scanner/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [더 보기](https://z3rotig4r.github.io)
