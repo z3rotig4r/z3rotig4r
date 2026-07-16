@@ -115,19 +115,10 @@ Hi, I'm **Cho Youngbeom** (`z3rotig4r`).
 [![Naver Bug Bounty](https://img.shields.io/badge/Naver_Bug_Bounty-Accepted_×2-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://bugbounty.naver.com)
 [![Kakao Bug Bounty](https://img.shields.io/badge/Kakao_Bug_Bounty-Accepted_×1-FFCD00?style=for-the-badge&logo=kakao&logoColor=3C1E1E)](https://bugbounty.kakao.com)
 
-| [Naver](https://bugbounty.naver.com) | [Kakao](https://bugbounty.kakao.com) |
-| :--- | :--- |
-| `NBB-2026-0294` · 리워드 심사 중 | `KV-2026-312` · 리워드 심사 중 |
-| `NBB-2026-0293` · 리워드 심사 중 | |
+- **네이버 버그바운티** — 취약점 제보 2건 채택 (2026)
+- **카카오 버그바운티** — 취약점 제보 1건 채택 (2026)
 
-<!--
-리워드 확정 시 "리워드 심사 중"을 금액으로 교체. 예:
-| `NBB-2026-0294` · ₩500,000 | `KV-2026-312` · ₩1,000,000 |
-새 제보 채택 시 해당 프로그램 컬럼에 행 추가. 프로그램(KISA `KVE-`, CVE 등)이
-늘면 컬럼 추가.
--->
-
-> 각 프로그램의 정책에 따라 대상 서비스, 취약점 유형, 기술적 상세 내용은 공개하지 않습니다.
+> 각 프로그램의 정책에 따라 대상 서비스, 취약점 유형, 상세 내용, 제보 식별자는 공개하지 않습니다.
 
 ---
 
