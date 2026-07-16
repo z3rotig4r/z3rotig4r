@@ -115,11 +115,10 @@ Hi, I'm **Cho Youngbeom** (`z3rotig4r`).
 [![Naver Bug Bounty](https://img.shields.io/badge/Naver_Bug_Bounty-Accepted_×2-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://bugbounty.naver.com)
 [![Kakao Bug Bounty](https://img.shields.io/badge/Kakao_Bug_Bounty-Accepted_×1-FFCD00?style=for-the-badge&logo=kakao&logoColor=3C1E1E)](https://bugbounty.kakao.com)
 
-| 프로그램 | 접수 번호 | 상태 | 연도 |
-|---|---|---|---|
-| [네이버 버그바운티](https://bugbounty.naver.com) | `NBB-2026-0294` | Accepted | 2026 |
-| [네이버 버그바운티](https://bugbounty.naver.com) | `NBB-2026-0293` | Accepted | 2026 |
-| [카카오 버그바운티](https://bugbounty.kakao.com) | `KV-2026-312` | Accepted | 2026 |
+| [Naver](https://bugbounty.naver.com) | [Kakao](https://bugbounty.kakao.com) |
+| :--- | :--- |
+| `NBB-2026-0294` | `KV-2026-312` |
+| `NBB-2026-0293` | |
 
 > 각 프로그램의 정책에 따라 대상 서비스, 취약점 유형, 기술적 상세 내용은 공개하지 않습니다.
 
