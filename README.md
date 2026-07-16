@@ -108,6 +108,20 @@ Hi, I'm **Cho Youngbeom** (`z3rotig4r`).
 
 ---
 
+## 🔍 보안 취약점 제보 (Bug Bounty)
+
+책임 있는 공개(Responsible Disclosure) 원칙에 따라 국내 버그바운티 프로그램에 취약점을 제보하고 있습니다.
+
+[![Naver Bug Bounty](https://img.shields.io/badge/Naver_Bug_Bounty-Accepted_×2-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://bugbounty.naver.com)
+[![Kakao Bug Bounty](https://img.shields.io/badge/Kakao_Bug_Bounty-Accepted_×1-FFCD00?style=for-the-badge&logo=kakao&logoColor=3C1E1E)](https://bugbounty.kakao.com)
+
+- **네이버 버그바운티** — 취약점 제보 2건 채택 (2026)
+- **카카오 버그바운티** — 취약점 제보 1건 채택 (2026)
+
+> 각 프로그램의 정책에 따라 대상 서비스, 취약점 유형, 상세 내용, 제보 식별자는 공개하지 않습니다.
+
+---
+
 ## 🌱 오픈소스 기여
 
 <a href="https://github.com/search?q=author%3Az3rotig4r+type%3Apr+is%3Amerged+-user%3Az3rotig4r&type=pullrequests">
