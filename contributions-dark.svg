@@ -35,7 +35,7 @@
       <g transform="translate(0, 26)">
         <svg width="16" height="16" viewBox="0 0 20 20" fill="#9ece6a"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg>
         <text x="20" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#9ece6a">
-          42 PRs Merged · 4 Repos
+          43 PRs Merged · 4 Repos
         </text>
       </g>
     </g>
@@ -54,6 +54,51 @@
           </defs>
           <circle cx="14" cy="14" r="14" fill="#2d3348"/>
           <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAADeklEQVR4nOzV3WtbZRwH8Oc8z8l5aZKTpGmTtOlLmp4uGWnmDK06EjrWUYpIN0QvFIYD0Zv9BYJ6IeqFOLwIouisbgjeiEiVKpQyJ92cThtrXZd2Na62HSQmac5bTnOa85wjSWDqlQUZvTnfy+f5Pedzfr9zOIc0TRMcROCBqBZswfczJAAgk8nUarV4PJ7NZkVBSKZSvywtmQDEYrFcLicIQiAQUGSZomm/37+xsdHGsn39/YV8nrTZeJ6fnp5WVXVqaiqdTvM8Pz4+Ho1G/xNudFxVFE3TZFlWFIWi6bvb2/VmJFHUNE0URYZhMMZY1zVNKxaLoigahqFjrNfrjePVaqlUIgiC4zhFUfbbcb1eJ5sBABAAANN0OJ0+jBt7NluH1yuJosvlyiwuAgAeTCQqlYogCKqqGoZhQChJUjgchhDKskySZLlchnBfj4/455fLMAzTMAqZ5aqkeofC7f3drcW/59O8KMY4v7O7tiUQkHCwttGIr7WLm7dLEMR+7H9VQAhvpt/d/GZhVxC/fO2dQm6rtXgvrTKE0PWV/Mdzq7f+2LmTl+8dR83ss+PGhIXzL1Z3ZNwZ9J15trKyMvbe25AkQ2OPsJxzfWn980tzVUCdPH1sdUvsDnojQ4FXL/1wKjXoc7PDA96Q3zl7Y/P9udt+r/2hoY5vs0VFw289k3hj9rbbTq0X1Xife62onjveByD8cPFPSKKXjgcHPDR6+bmz6qcfsZOPl69do8OHyssr/aceu37hk6sXZwia/vHyz4+emUhNjnxwYf6JJ49dnFkuqfoDfAdJohvZwh423Q5a1fDuHk4//zBLkSSCvxWUQ13c0qZ07uSAVMNHezneby9W9cs5IeJro20or+ijQTskKAZAyByOe8ZOOKNRgNDmlavx05O+SAgAQDGUUJJ2ShLLUpFBX7WOZ7/7fSoZBgAkh7teeDqRGu4CALjtFADg9c9+5QPOUKe9NUyWQggRbRSCROOtZWyw10WPdNtHg40C9Mqb500AKl/NoEAPlxhpPxK/M7+wduV7Z093bCIZig0sfP1T9tb2U2fHPe0OF8cEO53JI0FR0doYku9xAwAktU7Z4OFet1LT52/m/S427HcQkDja51L3cI+HZWzITpMneM8Xq5W7ij4xyDkoRFj/Ywu2YAu2YAu2YAu2YAu24P+dvwIAAP//fDNtVD+aMHMAAAAASUVORK5CYII=" x="0" y="0" width="28" height="28" clip-path="url(#circleView-0)"/>
+        </g>
+
+        <!-- Repo Name & PR Number -->
+        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c0caf5">
+          eGovFramework/eg...
+        </text>
+        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
+          #62
+        </text>
+
+        <!-- PR Title -->
+        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
+          feat: 두 RAG 모듈에 한국어 프롬...
+        </text>
+
+        <!-- Contribution Type Badge -->
+        <g transform="translate(14, 70)">
+          <rect width="65" height="18" rx="4" fill="#9ece6a"/>
+          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#1a1b26" text-anchor="middle">
+            Merged
+          </text>
+        </g>
+
+        <!-- Date -->
+        <g transform="translate(85, 70)">
+          <svg width="12" height="12" viewBox="0 0 20 20" fill="#9ece6a"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
+          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
+            Jul 21, 2026
+          </text>
+        </g>
+      </g>
+    
+      <g transform="translate(235, 76)" class="card card-1">
+        <!-- Card Background -->
+        <rect width="205" height="95" rx="12" fill="#2d3348"/>
+
+        <!-- Repo Icon -->
+        <g transform="translate(14, 14)">
+          <defs>
+            <clipPath id="circleView-1">
+              <circle cx="14" cy="14" r="14"/>
+            </clipPath>
+          </defs>
+          <circle cx="14" cy="14" r="14" fill="#2d3348"/>
+          <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAADeklEQVR4nOzV3WtbZRwH8Oc8z8l5aZKTpGmTtOlLmp4uGWnmDK06EjrWUYpIN0QvFIYD0Zv9BYJ6IeqFOLwIouisbgjeiEiVKpQyJ92cThtrXZd2Na62HSQmac5bTnOa85wjSWDqlQUZvTnfy+f5Pedzfr9zOIc0TRMcROCBqBZswfczJAAgk8nUarV4PJ7NZkVBSKZSvywtmQDEYrFcLicIQiAQUGSZomm/37+xsdHGsn39/YV8nrTZeJ6fnp5WVXVqaiqdTvM8Pz4+Ho1G/xNudFxVFE3TZFlWFIWi6bvb2/VmJFHUNE0URYZhMMZY1zVNKxaLoigahqFjrNfrjePVaqlUIgiC4zhFUfbbcb1eJ5sBABAAANN0OJ0+jBt7NluH1yuJosvlyiwuAgAeTCQqlYogCKqqGoZhQChJUjgchhDKskySZLlchnBfj4/455fLMAzTMAqZ5aqkeofC7f3drcW/59O8KMY4v7O7tiUQkHCwttGIr7WLm7dLEMR+7H9VQAhvpt/d/GZhVxC/fO2dQm6rtXgvrTKE0PWV/Mdzq7f+2LmTl+8dR83ss+PGhIXzL1Z3ZNwZ9J15trKyMvbe25AkQ2OPsJxzfWn980tzVUCdPH1sdUvsDnojQ4FXL/1wKjXoc7PDA96Q3zl7Y/P9udt+r/2hoY5vs0VFw289k3hj9rbbTq0X1Xife62onjveByD8cPFPSKKXjgcHPDR6+bmz6qcfsZOPl69do8OHyssr/aceu37hk6sXZwia/vHyz4+emUhNjnxwYf6JJ49dnFkuqfoDfAdJohvZwh423Q5a1fDuHk4//zBLkSSCvxWUQ13c0qZ07uSAVMNHezneby9W9cs5IeJro20or+ijQTskKAZAyByOe8ZOOKNRgNDmlavx05O+SAgAQDGUUJJ2ShLLUpFBX7WOZ7/7fSoZBgAkh7teeDqRGu4CALjtFADg9c9+5QPOUKe9NUyWQggRbRSCROOtZWyw10WPdNtHg40C9Mqb500AKl/NoEAPlxhpPxK/M7+wduV7Z093bCIZig0sfP1T9tb2U2fHPe0OF8cEO53JI0FR0doYku9xAwAktU7Z4OFet1LT52/m/S427HcQkDja51L3cI+HZWzITpMneM8Xq5W7ij4xyDkoRFj/Ywu2YAu2YAu2YAu2YAu24P+dvwIAAP//fDNtVD+aMHMAAAAASUVORK5CYII=" x="0" y="0" width="28" height="28" clip-path="url(#circleView-1)"/>
         </g>
 
         <!-- Repo Name & PR Number -->
@@ -86,19 +131,19 @@
         </g>
       </g>
     
-      <g transform="translate(235, 76)" class="card card-1">
+      <g transform="translate(18, 183)" class="card card-2">
         <!-- Card Background -->
         <rect width="205" height="95" rx="12" fill="#2d3348"/>
 
         <!-- Repo Icon -->
         <g transform="translate(14, 14)">
           <defs>
-            <clipPath id="circleView-1">
+            <clipPath id="circleView-2">
               <circle cx="14" cy="14" r="14"/>
             </clipPath>
           </defs>
           <circle cx="14" cy="14" r="14" fill="#2d3348"/>
-          <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAADeklEQVR4nOzV3WtbZRwH8Oc8z8l5aZKTpGmTtOlLmp4uGWnmDK06EjrWUYpIN0QvFIYD0Zv9BYJ6IeqFOLwIouisbgjeiEiVKpQyJ92cThtrXZd2Na62HSQmac5bTnOa85wjSWDqlQUZvTnfy+f5Pedzfr9zOIc0TRMcROCBqBZswfczJAAgk8nUarV4PJ7NZkVBSKZSvywtmQDEYrFcLicIQiAQUGSZomm/37+xsdHGsn39/YV8nrTZeJ6fnp5WVXVqaiqdTvM8Pz4+Ho1G/xNudFxVFE3TZFlWFIWi6bvb2/VmJFHUNE0URYZhMMZY1zVNKxaLoigahqFjrNfrjePVaqlUIgiC4zhFUfbbcb1eJ5sBABAAANN0OJ0+jBt7NluH1yuJosvlyiwuAgAeTCQqlYogCKqqGoZhQChJUjgchhDKskySZLlchnBfj4/455fLMAzTMAqZ5aqkeofC7f3drcW/59O8KMY4v7O7tiUQkHCwttGIr7WLm7dLEMR+7H9VQAhvpt/d/GZhVxC/fO2dQm6rtXgvrTKE0PWV/Mdzq7f+2LmTl+8dR83ss+PGhIXzL1Z3ZNwZ9J15trKyMvbe25AkQ2OPsJxzfWn980tzVUCdPH1sdUvsDnojQ4FXL/1wKjXoc7PDA96Q3zl7Y/P9udt+r/2hoY5vs0VFw289k3hj9rbbTq0X1Xife62onjveByD8cPFPSKKXjgcHPDR6+bmz6qcfsZOPl69do8OHyssr/aceu37hk6sXZwia/vHyz4+emUhNjnxwYf6JJ49dnFkuqfoDfAdJohvZwh423Q5a1fDuHk4//zBLkSSCvxWUQ13c0qZ07uSAVMNHezneby9W9cs5IeJro20or+ijQTskKAZAyByOe8ZOOKNRgNDmlavx05O+SAgAQDGUUJJ2ShLLUpFBX7WOZ7/7fSoZBgAkh7teeDqRGu4CALjtFADg9c9+5QPOUKe9NUyWQggRbRSCROOtZWyw10WPdNtHg40C9Mqb500AKl/NoEAPlxhpPxK/M7+wduV7Z093bCIZig0sfP1T9tb2U2fHPe0OF8cEO53JI0FR0doYku9xAwAktU7Z4OFet1LT52/m/S427HcQkDja51L3cI+HZWzITpMneM8Xq5W7ij4xyDkoRFj/Ywu2YAu2YAu2YAu2YAu24P+dvwIAAP//fDNtVD+aMHMAAAAASUVORK5CYII=" x="0" y="0" width="28" height="28" clip-path="url(#circleView-1)"/>
+          <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAADeklEQVR4nOzV3WtbZRwH8Oc8z8l5aZKTpGmTtOlLmp4uGWnmDK06EjrWUYpIN0QvFIYD0Zv9BYJ6IeqFOLwIouisbgjeiEiVKpQyJ92cThtrXZd2Na62HSQmac5bTnOa85wjSWDqlQUZvTnfy+f5Pedzfr9zOIc0TRMcROCBqBZswfczJAAgk8nUarV4PJ7NZkVBSKZSvywtmQDEYrFcLicIQiAQUGSZomm/37+xsdHGsn39/YV8nrTZeJ6fnp5WVXVqaiqdTvM8Pz4+Ho1G/xNudFxVFE3TZFlWFIWi6bvb2/VmJFHUNE0URYZhMMZY1zVNKxaLoigahqFjrNfrjePVaqlUIgiC4zhFUfbbcb1eJ5sBABAAANN0OJ0+jBt7NluH1yuJosvlyiwuAgAeTCQqlYogCKqqGoZhQChJUjgchhDKskySZLlchnBfj4/455fLMAzTMAqZ5aqkeofC7f3drcW/59O8KMY4v7O7tiUQkHCwttGIr7WLm7dLEMR+7H9VQAhvpt/d/GZhVxC/fO2dQm6rtXgvrTKE0PWV/Mdzq7f+2LmTl+8dR83ss+PGhIXzL1Z3ZNwZ9J15trKyMvbe25AkQ2OPsJxzfWn980tzVUCdPH1sdUvsDnojQ4FXL/1wKjXoc7PDA96Q3zl7Y/P9udt+r/2hoY5vs0VFw289k3hj9rbbTq0X1Xife62onjveByD8cPFPSKKXjgcHPDR6+bmz6qcfsZOPl69do8OHyssr/aceu37hk6sXZwia/vHyz4+emUhNjnxwYf6JJ49dnFkuqfoDfAdJohvZwh423Q5a1fDuHk4//zBLkSSCvxWUQ13c0qZ07uSAVMNHezneby9W9cs5IeJro20or+ijQTskKAZAyByOe8ZOOKNRgNDmlavx05O+SAgAQDGUUJJ2ShLLUpFBX7WOZ7/7fSoZBgAkh7teeDqRGu4CALjtFADg9c9+5QPOUKe9NUyWQggRbRSCROOtZWyw10WPdNtHg40C9Mqb500AKl/NoEAPlxhpPxK/M7+wduV7Z093bCIZig0sfP1T9tb2U2fHPe0OF8cEO53JI0FR0doYku9xAwAktU7Z4OFet1LT52/m/S427HcQkDja51L3cI+HZWzITpMneM8Xq5W7ij4xyDkoRFj/Ywu2YAu2YAu2YAu2YAu24P+dvwIAAP//fDNtVD+aMHMAAAAASUVORK5CYII=" x="0" y="0" width="28" height="28" clip-path="url(#circleView-2)"/>
         </g>
 
         <!-- Repo Name & PR Number -->
@@ -131,51 +176,6 @@
         </g>
       </g>
     
-      <g transform="translate(18, 183)" class="card card-2">
-        <!-- Card Background -->
-        <rect width="205" height="95" rx="12" fill="#2d3348"/>
-
-        <!-- Repo Icon -->
-        <g transform="translate(14, 14)">
-          <defs>
-            <clipPath id="circleView-2">
-              <circle cx="14" cy="14" r="14"/>
-            </clipPath>
-          </defs>
-          <circle cx="14" cy="14" r="14" fill="#2d3348"/>
-          <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAADeklEQVR4nOzV3WtbZRwH8Oc8z8l5aZKTpGmTtOlLmp4uGWnmDK06EjrWUYpIN0QvFIYD0Zv9BYJ6IeqFOLwIouisbgjeiEiVKpQyJ92cThtrXZd2Na62HSQmac5bTnOa85wjSWDqlQUZvTnfy+f5Pedzfr9zOIc0TRMcROCBqBZswfczJAAgk8nUarV4PJ7NZkVBSKZSvywtmQDEYrFcLicIQiAQUGSZomm/37+xsdHGsn39/YV8nrTZeJ6fnp5WVXVqaiqdTvM8Pz4+Ho1G/xNudFxVFE3TZFlWFIWi6bvb2/VmJFHUNE0URYZhMMZY1zVNKxaLoigahqFjrNfrjePVaqlUIgiC4zhFUfbbcb1eJ5sBABAAANN0OJ0+jBt7NluH1yuJosvlyiwuAgAeTCQqlYogCKqqGoZhQChJUjgchhDKskySZLlchnBfj4/455fLMAzTMAqZ5aqkeofC7f3drcW/59O8KMY4v7O7tiUQkHCwttGIr7WLm7dLEMR+7H9VQAhvpt/d/GZhVxC/fO2dQm6rtXgvrTKE0PWV/Mdzq7f+2LmTl+8dR83ss+PGhIXzL1Z3ZNwZ9J15trKyMvbe25AkQ2OPsJxzfWn980tzVUCdPH1sdUvsDnojQ4FXL/1wKjXoc7PDA96Q3zl7Y/P9udt+r/2hoY5vs0VFw289k3hj9rbbTq0X1Xife62onjveByD8cPFPSKKXjgcHPDR6+bmz6qcfsZOPl69do8OHyssr/aceu37hk6sXZwia/vHyz4+emUhNjnxwYf6JJ49dnFkuqfoDfAdJohvZwh423Q5a1fDuHk4//zBLkSSCvxWUQ13c0qZ07uSAVMNHezneby9W9cs5IeJro20or+ijQTskKAZAyByOe8ZOOKNRgNDmlavx05O+SAgAQDGUUJJ2ShLLUpFBX7WOZ7/7fSoZBgAkh7teeDqRGu4CALjtFADg9c9+5QPOUKe9NUyWQggRbRSCROOtZWyw10WPdNtHg40C9Mqb500AKl/NoEAPlxhpPxK/M7+wduV7Z093bCIZig0sfP1T9tb2U2fHPe0OF8cEO53JI0FR0doYku9xAwAktU7Z4OFet1LT52/m/S427HcQkDja51L3cI+HZWzITpMneM8Xq5W7ij4xyDkoRFj/Ywu2YAu2YAu2YAu2YAu24P+dvwIAAP//fDNtVD+aMHMAAAAASUVORK5CYII=" x="0" y="0" width="28" height="28" clip-path="url(#circleView-2)"/>
-        </g>
-
-        <!-- Repo Name & PR Number -->
-        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c0caf5">
-          eGovFramework/eg...
-        </text>
-        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
-          #1089
-        </text>
-
-        <!-- PR Title -->
-        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
-          perf: 법정동·기관코드 수신 배치의 ...
-        </text>
-
-        <!-- Contribution Type Badge -->
-        <g transform="translate(14, 70)">
-          <rect width="65" height="18" rx="4" fill="#9ece6a"/>
-          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#1a1b26" text-anchor="middle">
-            Merged
-          </text>
-        </g>
-
-        <!-- Date -->
-        <g transform="translate(85, 70)">
-          <svg width="12" height="12" viewBox="0 0 20 20" fill="#9ece6a"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
-          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
-            Jul 7, 2026
-          </text>
-        </g>
-      </g>
-    
       <g transform="translate(235, 183)" class="card card-3">
         <!-- Card Background -->
         <rect width="205" height="95" rx="12" fill="#2d3348"/>
@@ -196,12 +196,12 @@
           eGovFramework/eg...
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
-          #1088
+          #1089
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
-          perf: EgovComCrossSite...
+          perf: 법정동·기관코드 수신 배치의 ...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -241,12 +241,12 @@
           eGovFramework/eg...
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
-          #57
+          #1088
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
-          fix: langchain4j PDF 리...
+          perf: EgovComCrossSite...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -261,7 +261,7 @@
         <g transform="translate(85, 70)">
           <svg width="12" height="12" viewBox="0 0 20 20" fill="#9ece6a"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
           <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
-            Jul 6, 2026
+            Jul 7, 2026
           </text>
         </g>
       </g>
@@ -286,12 +286,12 @@
           eGovFramework/eg...
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
-          #56
+          #57
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
-          fix: 마크다운 리더 file_name...
+          fix: langchain4j PDF 리...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -306,7 +306,7 @@
         <g transform="translate(85, 70)">
           <svg width="12" height="12" viewBox="0 0 20 20" fill="#9ece6a"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
           <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
-            Jul 3, 2026
+            Jul 6, 2026
           </text>
         </g>
       </g>
