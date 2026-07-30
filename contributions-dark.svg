@@ -201,7 +201,7 @@
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
-          fix: 이메일 검증이 6자 초과 최상위...
+          fix: ��메일 검증이 6자 초과 최상...
         </text>
 
         <!-- Contribution Type Badge -->
