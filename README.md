@@ -21,15 +21,16 @@
 
 ## 🧠 관심 분야
 
-AI 보안의 **양방향**을 함께 다룹니다 — AI를 지키는 일과, AI로 지키는 일.
+AI 보안의 **양방향**을 함께 다룹니다.
 
-### 🛡️ Security **for** AI — AI를 지킨다
+### 🛡️ Security **for** AI
 - **AI Red Teaming** — LLM/에이전트 공격 표면 분석, 프롬프트 인젝션·탈옥 평가
 - **모델·파이프라인 보안** — 위협 모델링, 가드레일 설계, 학습 데이터·모델 보호
 
-### ⚔️ AI **for** Security — AI로 지킨다
-- **Agentic 보안 자동화** — 에이전트로 취약점 탐지·분석·대응 파이프라인 구축
-- **공격/방어 워크플로 자동화** — 반복 보안 작업을 에이전트 하네스로 전환
+### ⚔️ AI **for** Security
+- **정보유출·민감정보 탐지** — ML/DL·LLM 기반 데이터 유출/민감정보 식별 모델 구축
+- **보안 솔루션 로그 분석** — 보안 장비 로그 데이터 분석 및 위협 탐지 모델링
+- **Agentic 보안 자동화** — 에이전트로 탐지·분석·대응 파이프라인 구축
 
 ### 🤖 Agentic AI Harness Engineering — 둘을 잇는 축
 - 에이전트 중심 하네스 설계 및 자동화 체계 구축 — 위 두 방향 모두의 실행 기반
@@ -41,15 +42,16 @@ AI 보안의 **양방향**을 함께 다룹니다 — AI를 지키는 일과, AI
 
 <br/>
 
-Hi, I'm **Cho Youngbeom** (`z3rotig4r`). I work **both directions** of AI security — securing AI, and using AI to secure.
+Hi, I'm **Cho Youngbeom** (`z3rotig4r`). I work **both directions** of AI security.
 
-**🛡️ Security for AI — protect the AI**
+**🛡️ Security for AI**
 - **AI Red Teaming** — attack-surface analysis for LLMs/agents, prompt-injection & jailbreak evaluation
 - **Model/pipeline security** — threat modeling, guardrail design, training-data & model protection
 
-**⚔️ AI for Security — defend with AI**
-- **Agentic security automation** — agent-driven vulnerability detection, analysis & response pipelines
-- **Offensive/defensive workflow automation** — turning repetitive security work into agent harnesses
+**⚔️ AI for Security**
+- **Data-leak & sensitive-data detection** — ML/DL & LLM-based models for exfiltration / PII identification
+- **Security log analytics** — analyzing security-appliance logs, threat-detection modeling
+- **Agentic security automation** — agent-driven detection, analysis & response pipelines
 
 **🤖 Agentic AI Harness Engineering — the bridge**
 - Agent-centric harness design & automation that powers both directions above
