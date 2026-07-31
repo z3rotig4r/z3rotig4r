@@ -21,24 +21,40 @@
 
 ## 🧠 관심 분야
 
-- 🔴 **AI Red Teaming** — LLM/에이전트 공격 표면 분석, 프롬프트 인젝션·탈옥 평가
-- 🤖 **Agentic AI Harness Engineering** — 에이전트 중심 하네스 설계 및 자동화 체계 구축
-- 🛡️ **AI Security** — 모델·파이프라인 보안, 위협 모델링
+AI 보안의 **양방향**을 함께 다룹니다 — AI를 지키는 일과, AI로 지키는 일.
 
-> 현재 Agentic AI 하네스 엔지니어링과 AI 레드티밍에 집중하고 있습니다.
+### 🛡️ Security **for** AI — AI를 지킨다
+- **AI Red Teaming** — LLM/에이전트 공격 표면 분석, 프롬프트 인젝션·탈옥 평가
+- **모델·파이프라인 보안** — 위협 모델링, 가드레일 설계, 학습 데이터·모델 보호
+
+### ⚔️ AI **for** Security — AI로 지킨다
+- **Agentic 보안 자동화** — 에이전트로 취약점 탐지·분석·대응 파이프라인 구축
+- **공격/방어 워크플로 자동화** — 반복 보안 작업을 에이전트 하네스로 전환
+
+### 🤖 Agentic AI Harness Engineering — 둘을 잇는 축
+- 에이전트 중심 하네스 설계 및 자동화 체계 구축 — 위 두 방향 모두의 실행 기반
+
+> 현재 **Security for AI**와 **AI for Security**를 오가며, 그 사이를 잇는 **Agentic AI 하네스 엔지니어링**에 집중하고 있습니다.
 
 <details>
 <summary>🇺🇸 <b>View in English</b></summary>
 
 <br/>
 
-Hi, I'm **Cho Youngbeom** (`z3rotig4r`).
+Hi, I'm **Cho Youngbeom** (`z3rotig4r`). I work **both directions** of AI security — securing AI, and using AI to secure.
 
-- 🔴 **AI Red Teaming** — attack-surface analysis for LLMs/agents, prompt-injection & jailbreak evaluation
-- 🤖 **Agentic AI Harness Engineering** — agent-centric harness design & automation pipelines
-- 🛡️ **AI Security** — model/pipeline security, threat modeling
+**🛡️ Security for AI — protect the AI**
+- **AI Red Teaming** — attack-surface analysis for LLMs/agents, prompt-injection & jailbreak evaluation
+- **Model/pipeline security** — threat modeling, guardrail design, training-data & model protection
 
-> Currently focused on Agentic AI harness engineering and AI red teaming.
+**⚔️ AI for Security — defend with AI**
+- **Agentic security automation** — agent-driven vulnerability detection, analysis & response pipelines
+- **Offensive/defensive workflow automation** — turning repetitive security work into agent harnesses
+
+**🤖 Agentic AI Harness Engineering — the bridge**
+- Agent-centric harness design & automation that powers both directions above
+
+> Currently moving between **Security for AI** and **AI for Security**, focused on the **Agentic AI harness engineering** that connects them.
 
 </details>
 
