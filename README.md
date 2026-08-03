@@ -32,10 +32,11 @@ AI 보안의 **양방향**을 함께 다룹니다.
 - **보안 솔루션 로그 분석** — 보안 장비 로그 데이터 분석 및 위협 탐지 모델링
 - **Agentic 보안 자동화** — 에이전트로 탐지·분석·대응 파이프라인 구축
 
-### 🤖 Agentic AI Harness Engineering — 둘을 잇는 축
-- 에이전트 중심 하네스 설계 및 자동화 체계 구축 — 위 두 방향 모두의 실행 기반
+### 🤖 Agentic AI Engineering — 둘을 잇는 축
+- **에이전트 오케스트레이션** — 멀티에이전트 워크플로 설계, 툴 유즈·MCP 연동
+- **컨텍스트 엔지니어링 & 평가** — 컨텍스트 설계, 에이전트 평가(evals)·관측(observability)
 
-> 현재 **Security for AI**와 **AI for Security**를 오가며, 그 사이를 잇는 **Agentic AI 하네스 엔지니어링**에 집중하고 있습니다.
+> 현재 **Security for AI**와 **AI for Security**를 오가며, 그 사이를 잇는 **Agentic AI 엔지니어링**에 집중하고 있습니다.
 
 <details>
 <summary>🇺🇸 <b>View in English</b></summary>
@@ -53,10 +54,11 @@ Hi, I'm **Cho Youngbeom** (`z3rotig4r`). I work **both directions** of AI securi
 - **Security log analytics** — analyzing security-appliance logs, threat-detection modeling
 - **Agentic security automation** — agent-driven detection, analysis & response pipelines
 
-**🤖 Agentic AI Harness Engineering — the bridge**
-- Agent-centric harness design & automation that powers both directions above
+**🤖 Agentic AI Engineering — the bridge**
+- **Agent orchestration** — multi-agent workflow design, tool use & MCP integration
+- **Context engineering & evals** — context design, agent evaluation & observability
 
-> Currently moving between **Security for AI** and **AI for Security**, focused on the **Agentic AI harness engineering** that connects them.
+> Currently moving between **Security for AI** and **AI for Security**, focused on the **Agentic AI engineering** that connects them.
 
 </details>
 
