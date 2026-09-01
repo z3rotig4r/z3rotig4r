@@ -71,7 +71,7 @@
       <g transform="translate(0, 26)">
         <svg class="subtitle-icon" width="16" height="16" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg>
         <text class="subtitle-text" x="20" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">
-          125 PRs Merged · 5 Repos
+          126 PRs Merged · 5 Repos
         </text>
       </g>
     </g>
@@ -97,12 +97,12 @@
           eGovFramework/eg...
         </text>
         <text class="pr-number" x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500">
-          #1154
+          #39
         </text>
 
         <!-- PR Title -->
         <text class="card-text" x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10">
-          fix: validChkTime이 콜론 ...
+          fix: 생성된 JSP 등록 화면의 검색...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -117,7 +117,7 @@
         <g transform="translate(85, 70)">
           <svg class="date-icon" width="12" height="12" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
           <text class="date-text" x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9">
-            Aug 31, 2026
+            Sep 1, 2026
           </text>
         </g>
       </g>
@@ -142,12 +142,12 @@
           eGovFramework/eg...
         </text>
         <text class="pr-number" x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500">
-          #1194
+          #1154
         </text>
 
         <!-- PR Title -->
         <text class="card-text" x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10">
-          fix: EgovFormBasedUUID...
+          fix: validChkTime이 콜론 ...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -187,12 +187,12 @@
           eGovFramework/eg...
         </text>
         <text class="pr-number" x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500">
-          #1086
+          #1194
         </text>
 
         <!-- PR Title -->
         <text class="card-text" x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10">
-          fix: 웹메신저 세션 집합 순회 경로의...
+          fix: EgovFormBasedUUID...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -232,12 +232,12 @@
           eGovFramework/eg...
         </text>
         <text class="pr-number" x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500">
-          #1153
+          #1086
         </text>
 
         <!-- PR Title -->
         <text class="card-text" x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10">
-          fix: 당직일자 요일 계산 8자리 미만...
+          fix: 웹메신저 세션 집합 순회 경로의...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -277,12 +277,12 @@
           eGovFramework/eg...
         </text>
         <text class="pr-number" x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500">
-          #1192
+          #1153
         </text>
 
         <!-- PR Title -->
         <text class="card-text" x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10">
-          feat: 한글 초성 추출·초성 검색 유...
+          fix: 당직일자 요일 계산 8자리 미만...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -297,7 +297,7 @@
         <g transform="translate(85, 70)">
           <svg class="date-icon" width="12" height="12" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
           <text class="date-text" x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9">
-            Aug 27, 2026
+            Aug 31, 2026
           </text>
         </g>
       </g>
@@ -322,12 +322,12 @@
           eGovFramework/eg...
         </text>
         <text class="pr-number" x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500">
-          #1191
+          #1192
         </text>
 
         <!-- PR Title -->
         <text class="card-text" x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10">
-          feat: 파일 매직넘버(시그니처) 기반...
+          feat: 한글 초성 추출·초성 검색 유...
         </text>
 
         <!-- Contribution Type Badge -->
