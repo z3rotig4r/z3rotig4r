@@ -246,7 +246,7 @@
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
-          fix: 웹메신저 세션 집합 순회 경로의...
+          fix: 웹���신저 세션 집합 순회 경...
         </text>
 
         <!-- Contribution Type Badge -->
