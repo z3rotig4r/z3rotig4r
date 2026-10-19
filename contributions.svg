@@ -277,12 +277,12 @@
           eGovFramework/eg...
         </text>
         <text class="pr-number" x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500">
-          #1194
+          #1153
         </text>
 
         <!-- PR Title -->
         <text class="card-text" x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10">
-          fix: EgovFormBasedUUID...
+          fix: 당직일자 요일 계산 8자리 미만...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -322,12 +322,12 @@
           eGovFramework/eg...
         </text>
         <text class="pr-number" x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500">
-          #1153
+          #1086
         </text>
 
         <!-- PR Title -->
         <text class="card-text" x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10">
-          fix: 당직일자 요일 계산 8자리 미만...
+          fix: 웹메신저 세션 집합 순회 경로의...
         </text>
 
         <!-- Contribution Type Badge -->
